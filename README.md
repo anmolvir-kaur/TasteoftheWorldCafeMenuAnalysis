@@ -18,3 +18,7 @@ Throughout the project, we'll address key questions:
 - Which categories are most popular when considering both menu and order data, and what insights do high-spending orders provide about customer preferences?
 
 This project represents a significant step in the commitment to enhancing the dining experience at Taste of the World Cafe. The insights gained will not only improve the current menu but also guide future planning using data-driven decisions.
+
+## Insights and Impact:
+
+## 
