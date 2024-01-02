@@ -16,10 +16,13 @@ SELECT * FROM menu_items
 ORDER BY price DESC; 
 
 -- 4. How many Italian dishes are on the menu?
+SELECT COUNT(*) FROM menu_items 
+WHERE category='Italian'; 
+
 SELECT * FROM menu_items 
 WHERE category='Italian'; 
 
--- 5. What are teh least and most expensive Italian dishes on the menu?
+-- 5. What are the least and most expensive Italian dishes on the menu?
 SELECT * 
 FROM menu_items 
 WHERE category='Italian'
